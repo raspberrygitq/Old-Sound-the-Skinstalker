@@ -1,0 +1,128 @@
+{
+  "noise_1": {
+    "subtitle": "sounds.skinstalker:noise_1",
+    "sounds": [
+      "skinstalker:noise_1"
+    ]
+  },
+  "noise_2": {
+    "subtitle": "sound.skinstalker:noise_2",
+    "sounds": [
+      "skinstalker:noise_2"
+    ]
+  },
+  "noise_3": {
+    "subtitle": "sound.skinstalker:noise_3",
+    "sounds": [
+      "skinstalker:noise_3"
+    ]
+  },
+  "noise_4": {
+    "subtitle": "sound.skinstalker:noise_4",
+    "sounds": [
+      "skinstalker:noise_4"
+    ]
+  },
+  "chase_step_1": {
+    "subtitle": "sound.skinstalker:chase_step_1",
+    "sounds": [
+      "skinstalker:chase_step_1"
+    ]
+  },
+  "chase_step_2": {
+    "subtitle": "sound.skinstalker:chase_step_2",
+    "sounds": [
+      "skinstalker:chase_step_2"
+    ]
+  },
+  "chase_step_3": {
+    "subtitle": "sound.skinstalker:chase_step_3",
+    "sounds": [
+      "skinstalker:chase_step_3"
+    ]
+  },
+  "chase_step_4": {
+    "subtitle": "sound.skinstalker:chase_step_4",
+    "sounds": [
+      "skinstalker:chase_step_4"
+    ]
+  },
+  "chase_1": {
+    "subtitle": "sound.skinstalker:chase_1",
+    "sounds": [
+      "skinstalker:chase_1"
+    ]
+  },
+  "chase_2": {
+    "subtitle": "sound.skinstalker:chase_2",
+    "sounds": [
+      "skinstalker:chase_2"
+    ]
+  },
+  "chase_3": {
+    "subtitle": "sound.skinstalker:chase_3",
+    "sounds": [
+      "skinstalker:chase_3"
+    ]
+  },
+  "chase_4": {
+    "subtitle": "sound.skinstalker:chase_4",
+    "sounds": [
+      "skinstalker:chase_4"
+    ]
+  },
+  "flee_1": {
+    "subtitle": "sound.skinstalker:flee_1",
+    "sounds": [
+      "skinstalker:flee_1"
+    ]
+  },
+  "flee_2": {
+    "subtitle": "sound.skinstalker:flee_2",
+    "sounds": [
+      "skinstalker:flee_2"
+    ]
+  },
+  "disappear": {
+    "subtitle": "sound.skinstalker:disappear",
+    "sounds": [
+      "skinstalker:disappear"
+    ]
+  },
+  "spotted": {
+    "subtitle": "sound.skinstalker:spotted",
+    "sounds": [
+      "skinstalker:spotted"
+    ]
+  },
+  "stalker_death": {
+    "subtitle": "sound.skinstalker:stalker_death",
+    "sounds": [
+      "skinstalker:stalker_death"
+    ]
+  },
+  "stalker_hurt_1": {
+    "subtitle": "sound.skinstalker:stalker_hurt_1",
+    "sounds": [
+      "skinstalker:stalker_hurt_1"
+    ]
+  },
+  "stalker_hurt_2": {
+    "subtitle": "sound.skinstalker:stalker_hurt_2",
+    "sounds": [
+      "skinstalker:stalker_hurt_2"
+    ]
+  },
+  "stalker_hurt_3": {
+    "subtitle": "sound.skinstalker:stalker_hurt_3",
+    "sounds": [
+      "skinstalker:stalker_hurt_3"
+    ]
+  },
+  "stalker_hurt_4": {
+    "subtitle": "sound.skinstalker:stalker_hurt_4",
+    "sounds": [
+      "skinstalker:stalker_hurt_4"
+    ]
+  }
+}
